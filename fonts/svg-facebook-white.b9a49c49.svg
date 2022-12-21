@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>fb slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fb-slice-white" fill="#FFFFFF">
+            <path d="M11.8035,9.344 C10.8785,9.344 10.0985,10.123 10.0985,11.049 L10.0985,38.767 C10.0985,39.693 10.8295,40.472 11.8035,40.472 L26.7585,40.472 L26.7585,28.391 L22.6665,28.391 L22.6665,23.666 L26.7585,23.666 L26.7585,20.207 C26.7585,16.164 29.2435,13.972 32.8485,13.972 C34.0665,13.972 35.2355,14.021 36.4535,14.167 L36.4535,18.356 L34.0175,18.356 C32.0685,18.356 31.6795,19.282 31.6795,20.646 L31.6795,23.617 L36.3555,23.617 L35.7225,28.294 L31.7275,28.294 L31.7275,40.521 L39.6685,40.521 C40.5935,40.472 41.3245,39.693 41.2755,38.816 L41.2755,11.098 C41.3245,10.123 40.5935,9.344 39.6195,9.344 L11.8035,9.344 Z" id="Fill-12"></path>
+        </g>
+    </g>
+</svg>
