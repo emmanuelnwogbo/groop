@@ -40,6 +40,12 @@ const myFunc = ()  => {
         .then(response => response.json())
         .then(json => {
             console.log(json, 'hello there');
+
+            document.getElementById('popup').style.display = 'flex';
+
+            setTimeout(() => {
+                window.location.reload();
+            }, 2000)
         });
       })
     } else {
